@@ -1,1 +1,1 @@
-A repository of slides written in remarkjs format.
+A repository of slides written in various formats
